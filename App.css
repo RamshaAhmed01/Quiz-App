@@ -1,0 +1,16 @@
+/* App.css */
+
+body {
+  background-color: rgb(239, 223, 223);
+  color: black;
+}
+
+.app-title {
+  color: black;
+  margin-top: 2rem;
+  border: 2px solid black;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: antiquewhite;
+}
